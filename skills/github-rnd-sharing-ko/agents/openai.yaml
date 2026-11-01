@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 연구개발 공유 파트너"
+  short_description: "연구 결과의 README와 팀원 실행 경로, GitHub 게시·협업을 정리합니다"
+  default_prompt: "$github-rnd-sharing-ko로 이 연구 저장소를 팀원이 내려받아 실행하고 함께 수정할 수 있도록 정리해줘."
